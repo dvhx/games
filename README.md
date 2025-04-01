@@ -6,8 +6,7 @@ Summary of all of my games in one place, click on the image to play game in brow
 [<img src="image/alien_invasion.png">](https://dvhx.github.io/game-alien-invasion/)
 
 2D bullet hell in space setting, shoot different aliens, collect credit, update ship, 13 levels, 9 aliens, 10 types of ship upgrades. 
-- [Play in browser](https://dvhx.github.io/game-alien-invasion/)
-- [Source code](https://github.com/dvhx/alien-invasion)
+([Play in browser](https://dvhx.github.io/game-alien-invasion/), [Source code](https://github.com/dvhx/alien-invasion))
 
 ### Balloon mountains ###
 [<img src="image/balloon_mountains.png">](https://github.com/dvhx/game-balloon-mountains)
