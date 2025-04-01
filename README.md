@@ -42,7 +42,7 @@ Really simple chat bot, it predates LLMs and unfortunately was made obsolete by 
 [<img src="image/ghosttown2.png">](https://dvhx.github.io/game-ghost-town-2)
 
 An action sequel to original ghost town, no talking in this one. I made it because I wanted to separate pixelart engine from a ghosttown so that I can spin up similar game more easily. From a quality perspective this is a downgrade, original ghosttown is much better game IMHO.
-([Play in browser](https://dvhx.github.io/game-ghost-town-2), [Source code](https://github.com/dvhx/game-ghost-town2))
+([Play in browser](https://dvhx.github.io/game-ghost-town-2), [Source code](https://github.com/dvhx/game-ghost-town-2))
 
 ### Hide and seek ###
 [<img src="image/hide_and_seek.png">](https://dvhx.github.io/game-hide-and-seek)
