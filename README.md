@@ -30,7 +30,7 @@ Simple 2D game. Swipe up (or use a mouse) to hit and direct the ball. This game 
 [<img src="image/ghost_chat_bot.png">](https://dvhx.github.io/game-ghost-chatbot)
 
 Really simple chat bot, it predates LLMs and unfortunately was made obsolete by them, by the numbers my most popular game with 150'000 installs. It had bidirectional speech (you talk to mic and it replays with TTS), which at that time was kinda neat, now it's common. It uses ranked document retrieval and inverted index to find answer from database of 8000 Q&A. Works fully offline. There used to be minigames but tbh their only purpose was to get IAPs so I removed them in this version and they are available as separate games.
-([Play in browser](https://dvhx.github.io/game-ghost-chatbot), [Source code](https://github.com/dvhx/game-ghost-chat-bot))
+([Play in browser](https://dvhx.github.io/game-ghost-chatbot), [Source code](https://github.com/dvhx/game-ghost-chatbot))
 
 ### Ghost town ###
 [<img src="image/ghosttown.png">](https://dvhx.github.io/game-ghost-town)
