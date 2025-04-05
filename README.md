@@ -21,7 +21,7 @@ Simple 2D game. Swipe up (or use a mouse) to hit and direct the ball. This game 
 ([Play in browser](https://dvhx.github.io/game-beach-volleyball), [Source code](https://github.com/dvhx/game-beach-volleyball))
 
 ### Callisto space simulator ###
-[<img src="image/callisto.jpg">](https://dvhx.github.io/game-callisto-space-simulator)
+[<img src="image/callisto.png">](https://dvhx.github.io/game-callisto-space-simulator)
 
 Newtonian non-relativistic current technology real-time space simulator with visual and instrumental flight. With built in mission editor.
 ([Play in browser](https://dvhx.github.io/game-callisto-space-simulator), [Source code](https://github.com/dvhx/game-callisto-space-simulator))
