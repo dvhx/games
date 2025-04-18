@@ -56,6 +56,12 @@ An action sequel to original ghost town, no talking in this one. I made it becau
 2D top-view pixelart game. I made this game when I learned about compositing operations in canvas (destination-out), I thought it would be fun and easy and it was. So basically entire scene is covered with black and then selectively flashlight light cone removes it. This was a minigame in Ghost chat bot and later in Virtual boyfriend.
 ([Play in browser](https://dvhx.github.io/game-hide-and-seek), [Source code](https://github.com/dvhx/game-hide-and-seek))
 
+### Point and click adventure ###
+[<img src="image/paca.webp">](https://dvhx.github.io/game-point-and-click-adventure)
+
+Exploring the possibilities of AI generated images and text in simple point-and-click adventure web game
+([Play in browser](https://dvhx.github.io/game-point-and-click-adventure/index.html#intro), [Source code](https://github.com/dvhx/game-point-and-click-adventure))
+
 ### Robot puzzle ###
 [<img src="image/robot_puzzle.png">](https://dvhx.github.io/game-robot-puzzle)
 
