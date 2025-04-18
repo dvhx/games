@@ -57,7 +57,7 @@ An action sequel to original ghost town, no talking in this one. I made it becau
 ([Play in browser](https://dvhx.github.io/game-hide-and-seek), [Source code](https://github.com/dvhx/game-hide-and-seek))
 
 ### Point and click adventure ###
-[<img src="image/paca.webp">](https://dvhx.github.io/game-point-and-click-adventure)
+[<img src="image/paca.webp">](https://dvhx.github.io/game-point-and-click-adventure/index.html#intro)
 
 Exploring the possibilities of AI generated images and text in simple point-and-click adventure web game
 ([Play in browser](https://dvhx.github.io/game-point-and-click-adventure/index.html#intro), [Source code](https://github.com/dvhx/game-point-and-click-adventure))
