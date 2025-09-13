@@ -77,7 +77,7 @@ Another simple idea turned into game (destroy entire level), I remember I colabo
 ### Virtual boyfriend ###
 [<img src="image/virtual_boyfriend.png">](https://dvhx.github.io/game-virtual-boyfriend)
 
-Chatbot with clothes. The idea was to take Ghost chat bot, add avatar as a cute boy and charge people for cute clothes via in-game currency (diamonds). It was lot of work and I don't it it broght much. Why boyfriend and not girlfriend? I thought girls are more likely to buy clothes, boys are more interested in removing clothes. This game have the most minigames, basically each new location has minigame of some sorts.
+Chatbot with clothes. The idea was to take Ghost chat bot, add avatar as a cute boy and charge people for cute clothes via in-game currency (diamonds). It was lot of work and I don't think it broght much. Why boyfriend and not girlfriend? I thought girls are more likely to buy clothes, boys are more interested in removing clothes. This game have the most minigames, basically each new location has minigame of some sorts.
 ([Play in browser](https://dvhx.github.io/game-virtual-boyfriend), [Source code](https://github.com/dvhx/game-virtual-boyfriend))
 
 ### Word puzzle ###
