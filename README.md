@@ -65,7 +65,7 @@ Exploring the possibilities of AI generated images and text in simple point-and-
 ### Robot puzzle ###
 [<img src="image/robot_puzzle.png">](https://dvhx.github.io/game-robot-puzzle)
 
-2D top-view pixelar game. I had an idea to have character in Ghost town like word be controlled by computer instructions, like a turtle graphics, to solve some simple quests.
+2D top-view pixelart game. I had an idea to have character in Ghost town like world to be controlled by computer instructions, like a turtle graphics, to solve some simple quests.
 ([Play in browser](https://dvhx.github.io/game-robot-puzzle), [Source code](https://github.com/dvhx/game-robot-puzzle))
 
 ### Trash everything ###
